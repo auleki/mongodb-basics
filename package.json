@@ -1,0 +1,24 @@
+{
+  "name": "mongo_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auleki/mongodb-basics.git"
+  },
+  "author": "au_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auleki/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/auleki/mongodb-basics#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.5.6",
+    "mongoose": "^5.9.9"
+  }
+}
