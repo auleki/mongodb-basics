@@ -28,7 +28,7 @@ const updatedInfo = { $set: {
     rating: 9
 }};
 
-const search = { movie: "First Cow"};
+const search = { movie: "The Banker"};
 
 const updateMovies = async(db, cb) => {
     try {
